@@ -29,9 +29,5 @@ This project showcases **manual testing** of the [OrangeHRM](https://www.orangeh
 
 ![7m](https://github.com/user-attachments/assets/4eac0aa4-0de9-4cef-a73f-1b3d54028400)
 ![3m](https://github.com/user-attachments/assets/297cb21e-a9da-4834-838c-8e5b0bd45ba0)
-![4m](https://github.com/user-attachments/assets/64430f1a-20b2-4b1b-9af5-720042a605ae)
-![1m](https://github.com/user-attachments/assets/1976aec7-c668-4d0e-8005-ddb68e8b2cfa)
-![6m](https://github.com/user-attachments/assets/cb210809-5084-447f-87e1-f369125d3994)
 ![5m](https://github.com/user-attachments/assets/d2ac98aa-3ef3-478d-bcef-e25366116255)
-![2m](https://github.com/user-attachments/assets/58fd0f65-0d1d-40dd-a0ad-83b8e6caef0f)
 
